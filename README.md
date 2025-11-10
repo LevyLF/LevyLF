@@ -59,4 +59,4 @@
 
 ---
 
-⭐️ [LevyLF](https://github.com/LevyLF)
+[LevyLF](https://github.com/LevyLF)
