@@ -4,10 +4,10 @@
 ---
 
 ## 👨‍💻 Sobre Mim
-- 💡 Apaixonado **Desenvolvimento de Software**, **IA** e **Ciência de Dados**.  
-- 🚀 Eu trabalho com desenvolvimento Front-end e Back-End
+- 💡 Apaixonado **Desenvolvimento de Software E de Jogos**, **IA** e **Ciência de Dados**.  
+- 🚀 Eu trabalho com desenvolvimento Front-end, Back-End e Game-Dev
 - 🎓 Atualmente estou cursando uma graduação em **Engenharia De Software**.
-- 💬 Pergunte-me sobre **.NET**, **Full Stack**, **Java** ou **Python**.  
+- 💬 Pergunte-me sobre **.NET**, **Full Stack**, **Java**, **Python** Ou **GML**.  
 - 🤖 Áreas de interesse: **IA**, **Machine Learning**, **Deep Learning**, **Ciência de Dados**, **Automação**.  
 
 ---
@@ -15,7 +15,7 @@
 ## 🧰 Linguagens e Ferramentas que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,python,java,dotnet,cs,cpp,git,github,visualstudio,vscode,mysql,postgresql,linux&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,python,java,gml,dotnet,cs,cpp,git,github,visualstudio,vscode,mysql,postgresql,linux&perline=9"/>
 </p>
 
 ---
