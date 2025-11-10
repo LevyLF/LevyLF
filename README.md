@@ -8,7 +8,7 @@
 - 🚀 Eu trabalho com desenvolvimento Front-end e Back-End
 - 🎓 Atualmente estou cursando uma graduação em **Engenharia De Software**.
 - 💬 Pergunte-me sobre **.NET **, **Full Stack **, *Java* ou **Python**.  
-- 🤖 Áreas de interesse: **IA**, **Machine Learning**, **Deep Learning**, **Data Science**, **Automação**.  
+- 🤖 Áreas de interesse: **IA**, **Machine Learning**, **Deep Learning**, **Ciência de Dados**, **Automação**.  
 
 ---
 
