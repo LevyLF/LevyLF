@@ -15,7 +15,7 @@
 ## 🧰 Linguagens e Ferramentas que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,python,java,gml,dotnet,cs,cpp,git,github,visualstudio,vscode,mysql,postgresql,linux&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,python,java,dotnet,cs,cpp,git,github,visualstudio,vscode,mysql,postgresql,linux&perline=9"/>
 </p>
 
 ---
