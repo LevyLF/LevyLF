@@ -45,10 +45,11 @@
 ## 📫 Fale Comigo
 
 <p align="center">
-  <a href="mailto:levyfreitas30sousa@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=levyfreitas30sousa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 
 ---
 
