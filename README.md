@@ -37,7 +37,7 @@
 | ⚙️ **Backend** | .NET, C#, Python, Java |
 | 🧠 **Data / AI** | Pandas, NumPy, TensorFlow, Scikit-learn |
 | 🗄️ **Database** | MySQL, PostgreSQL |
-| 🧰 **Dev Tools** | Git, GitHub, Visual Studio, VS Code, Windows Terminal |
+| 🧰 **Dev Tools** | Git, GitHub, Visual Studio, VS Code|
 | 🖥️ **OS** | Windows, Linux e Mac|
 
 ---
