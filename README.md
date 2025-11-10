@@ -34,7 +34,7 @@
 | **Category** | **Technologies** |
 |---------------|------------------|
 | 💻 **Frontend** | HTML5, CSS3, Bootstrap, JavaScript, TypeScript, React |
-| ⚙️ **Backend** | ASP.NET MVC, C#, Python, Java |
+| ⚙️ **Backend** | .NET, C#, Python, Java |
 | 🧠 **Data / AI** | Pandas, NumPy, TensorFlow, Scikit-learn |
 | 🗄️ **Database** | MySQL, PostgreSQL |
 | 🧰 **Dev Tools** | Git, GitHub, Visual Studio, VS Code, Windows Terminal |
