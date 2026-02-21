@@ -1,5 +1,5 @@
 <h1 align="center">🔥<strong>LevyLF</strong> 🔥</h1>
-<h3 align="center"> Eu Sou o Levy </h3>
+<h3 align="center"> Eu Sou o Samuel </h3>
 
 ---
 
@@ -45,7 +45,7 @@
 ## 📫 Fale Comigo
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=levyfreitas30sousa@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samuelfreitas30sousa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
